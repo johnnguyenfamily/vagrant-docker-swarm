@@ -1,3 +1,4 @@
+#THIS IS A TEST
 # Docker Swarm Vagrant
 
 This is a simple Vagrantfile which can be used to spin few nodes with Docker 1.12+ installed. You
